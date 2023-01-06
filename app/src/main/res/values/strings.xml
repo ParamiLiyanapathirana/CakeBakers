@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">THA_APP_194094E</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="add">Add</string>
+    <string name="description">Description</string>
+    <string name="price">Price</string>
+    <string name="name">Name</string>
+    <string name="_1">1</string>
+    <string name="textview">TextView</string>
+    <string name="price1" />
+    <string name="name1" />
+    <string name="description1">description1</string>
+    <string name="edit">Edit</string>
+    <string name="Name">Name</string>
+    <string name="Description">Description</string>
+    <string name="Add">ADD</string>
+    <string name="Delete">Delete</string>
+    <string name="Update">Update</string>
+    <string name="Price">Price</string>
+    <string name="Edit">Edit</string>
+    <string name="EDIT" />
+</resources>
