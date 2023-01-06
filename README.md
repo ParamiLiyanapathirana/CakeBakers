@@ -1,2 +1,2 @@
 # CakeBakers
-Mobile application for Cake Bakers
+Mobile application for Bakery
